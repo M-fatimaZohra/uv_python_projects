@@ -6,9 +6,9 @@ This repository contains a collection of Python projects developed using the [UV
 
 ## 📁 Project List
 
-| Folder                        | Project Description                                      |
+| Folder                        | Project Description                                     |
 |------------------------------|----------------------------------------------------------|
-| 00_todo_list                 | ✅ A basic command-line to-do list application.           |
+| 00_todo_list                 | ✅ A basic command-line to-do list application.          |
 | 01_unit_converter            | 📏 Convert units like length, weight, and temperature.   |
 | 02_password_generator        | 🔐 Generate strong passwords using random logic.         |
 | 03_simple_api                | 🌐 A simple Python API project for practice.             |
@@ -17,6 +17,9 @@ This repository contains a collection of Python projects developed using the [UV
 | 002_password_strength_meter  | 📊 Evaluate the strength of user-entered passwords.      |
 | 003_personal_library_manager | 📚 Manage a collection of books with basic operations.   |
 | 004_growth_mindset_challenge | 🦋 Learn, grow, improve—abilities aren't set limits.     |
+| 005_multiple_assignments     | 📃complete pile of great assignments of python           |
+| 006_oop_assignments          | 🏛️ complete all oop task efficiently                     |
+
 
 
 ---
