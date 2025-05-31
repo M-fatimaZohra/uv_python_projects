@@ -19,7 +19,7 @@ This repository contains a collection of Python projects developed using the [UV
 | 004_growth_mindset_challenge | 🦋 Learn, grow, improve—abilities aren't set limits.     |
 | 005_multiple_assignments     | 📃complete pile of great assignments of python           |
 | 006_oop_assignments          | 🏛️ complete all oop task efficiently                     |
-
+| 007_data_encryption          | 🔑store data in ercryption form and decrypt it to see    |
 
 
 ---

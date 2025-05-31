@@ -1,0 +1,11 @@
+[project]
+name = "007-secure-data-encryption"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cryptography>=45.0.3",
+    "cryptography-fernet>=0.1.0",
+    "streamlit>=1.45.1",
+]
